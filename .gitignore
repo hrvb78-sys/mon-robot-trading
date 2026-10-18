@@ -1,0 +1,10 @@
+# Secrets (ne jamais publier sur GitHub)
+config_testnet.py
+config.py
+
+# Dossiers inutiles
+__pycache__/
+*.log
+*.json
+*.bak
+*.pid
